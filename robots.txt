@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shnwz3.github.io/sada_zikr/sitemap.xml
